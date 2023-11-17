@@ -23,6 +23,9 @@
 ;; SPDX-License-Identifier: GPL-3.0-or-later
 
 ;;; Commentary:
+
+;; Format Python source code using the Ruff formatter.
+
 ;;; Code:
 
 (require 'reformatter)
